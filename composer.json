@@ -1,0 +1,21 @@
+{
+    "name": "wisnurdi/mvc-app",
+    "description": "template aplikasi yang sangat sederhana pakai banget",
+    "keywords": ["mvc", "framework", "project template"],
+    "homepage": "https://github.com/wisnurdi/mvc-app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wisnurdi",
+            "email": "wisnurdi@gmail.com",
+            "homepage": "https://wisnurdi.github.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+      "php": ">=5.4.0",
+      "wisnurdi/mvc": "~0.1.1",
+    }
+    "minimum-stability": "dev"
+}
