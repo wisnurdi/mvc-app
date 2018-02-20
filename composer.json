@@ -15,7 +15,7 @@
     ],
     "require": {
       "php": ">=5.4.0",
-      "wisnurdi/mvc": "~0.1.1",
+      "wisnurdi/mvc": "~0.1.1"
     },
     "minimum-stability": "dev"
 }
