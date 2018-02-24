@@ -8,7 +8,7 @@ Saking sederhananya, aplikasi ini hanya digunakan untuk keperluan minimalis saja
 Gunakan [composer](http://getcomposer.org) untuk menginstalnya dengan perintah sebagai berikut:
 
 ```
-composer create-project wisnurdi/mvc-app appku 0.1.0
+composer create-project wisnurdi/mvc-app appku 0.1.2
 ```
 
 Setelah itu, akan ada folder dan file-file sebagai berikut:
